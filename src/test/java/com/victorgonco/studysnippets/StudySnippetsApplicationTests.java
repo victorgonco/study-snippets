@@ -1,4 +1,4 @@
-package com.victorgonco.study_snippets;
+package com.victorgonco.studysnippets;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

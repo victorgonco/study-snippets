@@ -1,4 +1,4 @@
-package com.victorgonco.study_snippets;
+package com.victorgonco.studysnippets;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
